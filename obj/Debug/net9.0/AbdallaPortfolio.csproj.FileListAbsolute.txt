@@ -199,8 +199,6 @@ C:\Users\abdalla\AbdallaPortfolio\bin\Debug\net9.0\wwwroot\_framework\dotnet.run
 C:\Users\abdalla\AbdallaPortfolio\bin\Debug\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 C:\Users\abdalla\AbdallaPortfolio\bin\Debug\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 C:\Users\abdalla\AbdallaPortfolio\bin\Debug\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
-C:\Users\abdalla\AbdallaPortfolio\bin\Debug\net9.0\wwwroot\_framework\AbdallaPortfolio.ou037esthg.wasm
-C:\Users\abdalla\AbdallaPortfolio\bin\Debug\net9.0\wwwroot\_framework\AbdallaPortfolio.o2fxpdzgtd.pdb
 C:\Users\abdalla\AbdallaPortfolio\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json
 C:\Users\abdalla\AbdallaPortfolio\bin\Debug\net9.0\wwwroot\_framework\blazor.webassembly.js.gz
 C:\Users\abdalla\AbdallaPortfolio\bin\Debug\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.z6jo10m0rd.wasm.gz
@@ -403,8 +401,6 @@ C:\Users\abdalla\AbdallaPortfolio\bin\Debug\net9.0\wwwroot\_framework\dotnet.run
 C:\Users\abdalla\AbdallaPortfolio\bin\Debug\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 C:\Users\abdalla\AbdallaPortfolio\bin\Debug\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 C:\Users\abdalla\AbdallaPortfolio\bin\Debug\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
-C:\Users\abdalla\AbdallaPortfolio\bin\Debug\net9.0\wwwroot\_framework\AbdallaPortfolio.ou037esthg.wasm.gz
-C:\Users\abdalla\AbdallaPortfolio\bin\Debug\net9.0\wwwroot\_framework\AbdallaPortfolio.o2fxpdzgtd.pdb.gz
 C:\Users\abdalla\AbdallaPortfolio\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json.gz
 C:\Users\abdalla\AbdallaPortfolio\bin\Debug\net9.0\AbdallaPortfolio.staticwebassets.runtime.json
 C:\Users\abdalla\AbdallaPortfolio\bin\Debug\net9.0\AbdallaPortfolio.staticwebassets.endpoints.json
@@ -1068,9 +1064,6 @@ C:\Users\abdalla\AbdallaPortfolio\obj\Debug\net9.0\compressed\nzcv5zcxvu-zbl9qys
 C:\Users\abdalla\AbdallaPortfolio\obj\Debug\net9.0\compressed\igypszivae-tjcz0u77k5.gz
 C:\Users\abdalla\AbdallaPortfolio\obj\Debug\net9.0\compressed\ls2f3j2bn5-tptq2av103.gz
 C:\Users\abdalla\AbdallaPortfolio\obj\Debug\net9.0\compressed\v7njfike36-lfu7j35m59.gz
-C:\Users\abdalla\AbdallaPortfolio\obj\Debug\net9.0\compressed\aq2gagndw0-ou037esthg.gz
-C:\Users\abdalla\AbdallaPortfolio\obj\Debug\net9.0\compressed\855m6exs3v-o2fxpdzgtd.gz
-C:\Users\abdalla\AbdallaPortfolio\obj\Debug\net9.0\compressed\p5pp22jxmo-tl2g58el93.gz
 C:\Users\abdalla\AbdallaPortfolio\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\abdalla\AbdallaPortfolio\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\abdalla\AbdallaPortfolio\obj\Debug\net9.0\staticwebassets.development.json
@@ -1081,3 +1074,10 @@ C:\Users\abdalla\AbdallaPortfolio\obj\Debug\net9.0\refint\AbdallaPortfolio.dll
 C:\Users\abdalla\AbdallaPortfolio\obj\Debug\net9.0\AbdallaPortfolio.pdb
 C:\Users\abdalla\AbdallaPortfolio\obj\Debug\net9.0\ref\AbdallaPortfolio.dll
 C:\Users\abdalla\AbdallaPortfolio\obj\Debug\net9.0\compressed\te5rh5g2fi-8ex9gtadqn.gz
+C:\Users\abdalla\AbdallaPortfolio\bin\Debug\net9.0\wwwroot\_framework\AbdallaPortfolio.yogsfx7twp.wasm
+C:\Users\abdalla\AbdallaPortfolio\bin\Debug\net9.0\wwwroot\_framework\AbdallaPortfolio.ub8kqdn2xm.pdb
+C:\Users\abdalla\AbdallaPortfolio\bin\Debug\net9.0\wwwroot\_framework\AbdallaPortfolio.yogsfx7twp.wasm.gz
+C:\Users\abdalla\AbdallaPortfolio\bin\Debug\net9.0\wwwroot\_framework\AbdallaPortfolio.ub8kqdn2xm.pdb.gz
+C:\Users\abdalla\AbdallaPortfolio\obj\Debug\net9.0\compressed\aq2gagndw0-yogsfx7twp.gz
+C:\Users\abdalla\AbdallaPortfolio\obj\Debug\net9.0\compressed\855m6exs3v-ub8kqdn2xm.gz
+C:\Users\abdalla\AbdallaPortfolio\obj\Debug\net9.0\compressed\p5pp22jxmo-vk2msf4lyu.gz

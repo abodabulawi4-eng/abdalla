@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AbdallaPortfolio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e768d34114320e69345366e5745f37c588dd5c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34eba01c5af3200f8668d2d20b611af74f2f8900")]
 [assembly: System.Reflection.AssemblyProductAttribute("AbdallaPortfolio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AbdallaPortfolio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
