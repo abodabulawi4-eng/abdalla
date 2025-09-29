@@ -815,7 +815,6 @@ C:\Users\abdalla\AbdallaPortfolio\obj\Release\net9.0\scopedcss\projectbundle\Abd
 C:\Users\abdalla\AbdallaPortfolio\obj\Release\net9.0\blazor.build.boot-extension.json
 C:\Users\abdalla\AbdallaPortfolio\obj\Release\net9.0\blazor.boot.json
 C:\Users\abdalla\AbdallaPortfolio\obj\Release\net9.0\compressed\2j41p8bcwf-j85gi3wkbo.gz
-C:\Users\abdalla\AbdallaPortfolio\obj\Release\net9.0\compressed\te5rh5g2fi-o8903rrnmy.gz
 C:\Users\abdalla\AbdallaPortfolio\obj\Release\net9.0\compressed\1s77ggzc91-bqjiyaj88i.gz
 C:\Users\abdalla\AbdallaPortfolio\obj\Release\net9.0\compressed\shsu9fn4wk-c2jlpeoesf.gz
 C:\Users\abdalla\AbdallaPortfolio\obj\Release\net9.0\compressed\rals8q33bl-erw9l3u2r3.gz
@@ -1073,10 +1072,12 @@ C:\Users\abdalla\AbdallaPortfolio\obj\Release\net9.0\AbdallaPortfolio.dll
 C:\Users\abdalla\AbdallaPortfolio\obj\Release\net9.0\refint\AbdallaPortfolio.dll
 C:\Users\abdalla\AbdallaPortfolio\obj\Release\net9.0\AbdallaPortfolio.pdb
 C:\Users\abdalla\AbdallaPortfolio\obj\Release\net9.0\ref\AbdallaPortfolio.dll
-C:\Users\abdalla\AbdallaPortfolio\bin\Release\net9.0\wwwroot\_framework\AbdallaPortfolio.vr494jyhft.wasm
-C:\Users\abdalla\AbdallaPortfolio\bin\Release\net9.0\wwwroot\_framework\AbdallaPortfolio.h8ald44d52.pdb
-C:\Users\abdalla\AbdallaPortfolio\bin\Release\net9.0\wwwroot\_framework\AbdallaPortfolio.vr494jyhft.wasm.gz
-C:\Users\abdalla\AbdallaPortfolio\bin\Release\net9.0\wwwroot\_framework\AbdallaPortfolio.h8ald44d52.pdb.gz
-C:\Users\abdalla\AbdallaPortfolio\obj\Release\net9.0\compressed\aq2gagndw0-vr494jyhft.gz
-C:\Users\abdalla\AbdallaPortfolio\obj\Release\net9.0\compressed\855m6exs3v-h8ald44d52.gz
-C:\Users\abdalla\AbdallaPortfolio\obj\Release\net9.0\compressed\p5pp22jxmo-fgb283ui9e.gz
+C:\Users\abdalla\AbdallaPortfolio\bin\Release\net9.0\wwwroot\_framework\AbdallaPortfolio.s4ufq94us3.wasm
+C:\Users\abdalla\AbdallaPortfolio\bin\Release\net9.0\wwwroot\_framework\AbdallaPortfolio.ezo8xvmzhw.pdb
+C:\Users\abdalla\AbdallaPortfolio\bin\Release\net9.0\wwwroot\_framework\AbdallaPortfolio.s4ufq94us3.wasm.gz
+C:\Users\abdalla\AbdallaPortfolio\bin\Release\net9.0\wwwroot\_framework\AbdallaPortfolio.ezo8xvmzhw.pdb.gz
+C:\Users\abdalla\AbdallaPortfolio\obj\Release\net9.0\AbdallaPortfolio.sourcelink.json
+C:\Users\abdalla\AbdallaPortfolio\obj\Release\net9.0\compressed\te5rh5g2fi-a5929ykbft.gz
+C:\Users\abdalla\AbdallaPortfolio\obj\Release\net9.0\compressed\aq2gagndw0-s4ufq94us3.gz
+C:\Users\abdalla\AbdallaPortfolio\obj\Release\net9.0\compressed\855m6exs3v-ezo8xvmzhw.gz
+C:\Users\abdalla\AbdallaPortfolio\obj\Release\net9.0\compressed\p5pp22jxmo-onqg11ix06.gz
